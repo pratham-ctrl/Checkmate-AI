@@ -155,7 +155,7 @@ Contributions are welcome\! Whether it's optimizing the search function or addin
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 \<div align="center"\>
-\<small\>Made with ❤️ by \<a href="https://www.google.com/search?q=https://github.com/pratham-ctrl"\>Pratham Parikh\</a\>\</small\>
+\<small\>Made with ❤️ by \<a href="//github.com/pratham-ctrl"</a\>\</small\>
 \</div\>
 
 ```
